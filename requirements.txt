@@ -1,0 +1,4 @@
+faker==11.3.0
+gspread==5.1.1
+tqdm==4.62.3
+python-dotenv==0.19.2
